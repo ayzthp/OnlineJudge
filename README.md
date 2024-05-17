@@ -40,7 +40,5 @@ If you want to contribute to this project, please follow the guidelines below:
 4. Push your changes to your forked repository.
 5. Submit a pull request detailing your changes.
 
-## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact me at arihantgarg.ishu@gmail.com.
 

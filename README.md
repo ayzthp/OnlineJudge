@@ -6,7 +6,7 @@ An online code evaluation platform built using MERN(MongoDB, ExpressJS, ReactJS,
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/ArihantGarg/OnlineJudge.git
+git clone https://github.com/ayzthp/OnlineJudge.git
 ```
 
 2. Install the required dependencies
